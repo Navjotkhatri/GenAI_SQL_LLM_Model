@@ -61,3 +61,13 @@ Solution: The user-friendly interface built with Streamlit ensures that even use
 **Python**: Primary programming language for development.
 
 **Streamlit**: Lightweight web framework for creating the user interface.
+
+<h2>project experiment video</h2>
+
+
+
+![streamlit Project video](https://raw.githubusercontent.com/Navjotkhatri/GenAI_SQL_LLM_Model/main/Untitled%20design.gif)
+
+
+
+
