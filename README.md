@@ -5,9 +5,9 @@
 This project leverages Google PaLM (Pathways Language Model) to build a generative AI application that interfaces with a MySQL database containing sales data. The primary objective is to enable users to retrieve and interact with the database using natural English sentences. This repository contains the source code, documentation, and examples to demonstrate the capabilities of the system.
 
 <p>
-    <img src="https://img.shields.io/badge/Skill-Data%20Analysis-yellow" alt="GenAI" />
-    <img src="https://img.shields.io/badge/Skill-Data%20Visualization-blueviolet" alt="LLM" />
-    <img src="https://img.shields.io/badge/Skill-Market%20Basket%20Analysis-green" alt="Sales Analysis" />
+    <img src="https://img.shields.io/badge/Skill-GenAI-yellow" alt="GenAI" />
+    <img src="https://img.shields.io/badge/Skill-LLM-blueviolet" alt="LLM" />
+    <img src="https://img.shields.io/badge/Skill-Sales Analysis-green" alt="Sales Analysis" />
 </p>
 
 <p>
