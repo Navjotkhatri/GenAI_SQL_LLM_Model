@@ -41,15 +41,15 @@ In today's data-driven world, businesses accumulate vast amounts of data, partic
 
 **Problem 1: Complex Data Retrieval**
 
-Solution: This project allows users to query the sales database using natural language, removing the need for complex SQL queries. For example, a user can ask, "Show me the total sales for last quarter," and get an immediate response.
+This project allows users to query the sales database using natural language, removing the need for complex SQL queries. For example, a user can ask, "Show me the total sales for last quarter," and get an immediate response.
 
 **Problem 2: Improving Sales Insights**
 
-Solution: By enabling easy access to sales data, businesses can quickly identify trends, track performance, and make data-driven decisions. For instance, queries like "List the top-selling products this month" can help in inventory planning and sales strategy optimization.
+By enabling easy access to sales data, businesses can quickly identify trends, track performance, and make data-driven decisions. For instance, queries like "List the top-selling products this month" can help in inventory planning and sales strategy optimization.
 
 **Problem 3: Enhancing User Experience**
 
-Solution: The user-friendly interface built with Streamlit ensures that even users without technical expertise can interact with the database, promoting a more inclusive and productive work environment.
+The user-friendly interface built with Streamlit ensures that even users without technical expertise can interact with the database, promoting a more inclusive and productive work environment.
 
 
 <h2>Tech Stack</h2>
